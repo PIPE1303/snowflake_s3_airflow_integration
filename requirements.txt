@@ -1,0 +1,9 @@
+# Airflow providers
+apache-airflow-providers-amazon
+apache-airflow-providers-slack
+apache-airflow-providers-snowflake
+
+# AWS SDK for Python (Boto3)
+boto3
+
+# Additional dependencies
